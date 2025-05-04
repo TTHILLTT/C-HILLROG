@@ -1,0 +1,4 @@
+﻿  B3969 [GESP202403 五级] B-smooth 数.cpp
+D:\C-HILLROG\B3969 [GESP202403 五级] B-smooth 数\B3969 [GESP202403 五级] B-smooth 数\B3969 [GESP202403 五级] B-smooth 数.cpp(13,13): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+D:\C-HILLROG\B3969 [GESP202403 五级] B-smooth 数\B3969 [GESP202403 五级] B-smooth 数\B3969 [GESP202403 五级] B-smooth 数.cpp(31,16): warning C4244: “参数”: 从“LL”转换到“int”，可能丢失数据
+  B3969 [GESP202403 五级] B-smooth 数.vcxproj -> D:\C-HILLROG\B3969 [GESP202403 五级] B-smooth 数\x64\Debug\B3969 [GESP202403 五级] B-smooth 数.exe

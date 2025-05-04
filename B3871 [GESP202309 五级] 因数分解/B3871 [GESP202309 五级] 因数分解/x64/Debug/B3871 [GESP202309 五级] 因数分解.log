@@ -1,0 +1,4 @@
+﻿  B3871 [GESP202309 五级] 因数分解.cpp
+D:\C-HILLROG\B3871 [GESP202309 五级] 因数分解\B3871 [GESP202309 五级] 因数分解\B3871 [GESP202309 五级] 因数分解.cpp(13,13): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+D:\C-HILLROG\B3871 [GESP202309 五级] 因数分解\B3871 [GESP202309 五级] 因数分解\B3871 [GESP202309 五级] 因数分解.cpp(30,12): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+  B3871 [GESP202309 五级] 因数分解.vcxproj -> D:\C-HILLROG\B3871 [GESP202309 五级] 因数分解\x64\Debug\B3871 [GESP202309 五级] 因数分解.exe
