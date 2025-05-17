@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "问题 D Apple", "问题 D Apple\问题 D Apple.vcxproj", "{56303858-3B37-4656-B2A9-750CE8075783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56303858-3B37-4656-B2A9-750CE8075783}.Debug|x64.ActiveCfg = Debug|x64
+		{56303858-3B37-4656-B2A9-750CE8075783}.Debug|x64.Build.0 = Debug|x64
+		{56303858-3B37-4656-B2A9-750CE8075783}.Debug|x86.ActiveCfg = Debug|Win32
+		{56303858-3B37-4656-B2A9-750CE8075783}.Debug|x86.Build.0 = Debug|Win32
+		{56303858-3B37-4656-B2A9-750CE8075783}.Release|x64.ActiveCfg = Release|x64
+		{56303858-3B37-4656-B2A9-750CE8075783}.Release|x64.Build.0 = Release|x64
+		{56303858-3B37-4656-B2A9-750CE8075783}.Release|x86.ActiveCfg = Release|Win32
+		{56303858-3B37-4656-B2A9-750CE8075783}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AAA68FC-6E57-45FE-9470-CF6B270D097E}
+	EndGlobalSection
+EndGlobal
