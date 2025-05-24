@@ -1,0 +1,4 @@
+﻿  A - Approximation.cpp
+D:\C-HILLROG\A - Approximation\A - Approximation\A - Approximation.cpp(12,7): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+D:\C-HILLROG\A - Approximation\A - Approximation\A - Approximation.cpp(12,22): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+  A - Approximation.vcxproj -> D:\C-HILLROG\A - Approximation\x64\Debug\A - Approximation.exe
