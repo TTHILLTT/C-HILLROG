@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "B4003 [GESP202406 三级] 移位", "B4003 [GESP202406 三级] 移位\B4003 [GESP202406 三级] 移位.vcxproj", "{733427E0-888F-4371-A657-B1987F342A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733427E0-888F-4371-A657-B1987F342A97}.Debug|x64.ActiveCfg = Debug|x64
+		{733427E0-888F-4371-A657-B1987F342A97}.Debug|x64.Build.0 = Debug|x64
+		{733427E0-888F-4371-A657-B1987F342A97}.Debug|x86.ActiveCfg = Debug|Win32
+		{733427E0-888F-4371-A657-B1987F342A97}.Debug|x86.Build.0 = Debug|Win32
+		{733427E0-888F-4371-A657-B1987F342A97}.Release|x64.ActiveCfg = Release|x64
+		{733427E0-888F-4371-A657-B1987F342A97}.Release|x64.Build.0 = Release|x64
+		{733427E0-888F-4371-A657-B1987F342A97}.Release|x86.ActiveCfg = Release|Win32
+		{733427E0-888F-4371-A657-B1987F342A97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17446759-4DCE-49E5-A612-6227A7C3235F}
+	EndGlobalSection
+EndGlobal
