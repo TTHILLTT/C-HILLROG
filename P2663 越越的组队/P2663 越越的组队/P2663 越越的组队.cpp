@@ -1,11 +1,35 @@
 ﻿// P2663 越越的组队.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!\n";
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long LL;
+LL n, dp[1005][1005], sum;
+int main() {
+	cin >> n;
+	n += 5;
+	vector<LL>a(n);
+	n -= 5;
+	for (LL i = 1; i <= n; i++) {
+		cin >> a[i];
+		sum += a[i];
+	}
+	dp[0][0] = 1;
+	for (LL i = 1; i <= n; i++) {
+		for (LL j = i; j >= 1; j--) {
+			for (LL k = sum / 2; k >= a[i]; k--) {
+				dp[j][k] |= dp[j - 1][k - a[i]];
+			}
+		}
+	}
+	for (LL i = sum / 2; i >= 0; i--) {
+		if (dp[n / 2][i]) {
+			cout << i;
+			goto end;
+		}
+	}
+	end:
+	return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
