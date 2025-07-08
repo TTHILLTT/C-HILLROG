@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5728 【深基5.例5】旗鼓相当的对手", "P5728 【深基5.例5】旗鼓相当的对手\P5728 【深基5.例5】旗鼓相当的对手.vcxproj", "{3A157212-69D2-49F0-8C60-80FA7F68CF26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Debug|x64.ActiveCfg = Debug|x64
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Debug|x64.Build.0 = Debug|x64
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Debug|x86.Build.0 = Debug|Win32
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Release|x64.ActiveCfg = Release|x64
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Release|x64.Build.0 = Release|x64
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Release|x86.ActiveCfg = Release|Win32
+		{3A157212-69D2-49F0-8C60-80FA7F68CF26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F083F45-9DBF-4F83-9AB4-749B2C9CEAA0}
+	EndGlobalSection
+EndGlobal
