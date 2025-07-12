@@ -17,7 +17,7 @@ string toBase(LL x, int base) {
 	string res;
 	// 预先分配足够空间（最大位数=log_base(number)+1）
     	// 对于number<=10^12, base>=2, 最大位数<=40
-    	result.reserve(40);  
+    	res.reserve(40);  
 	do {
 		res += '0' + (x % base);
 		x /= base;
