@@ -1,0 +1,3 @@
+E:/C-HILLROG/P2340 [USACO03FALL] Cow Exhibition G/cmake-build-debug/CMakeFiles/P2340__USACO03FALL__Cow_Exhibition_G.dir
+E:/C-HILLROG/P2340 [USACO03FALL] Cow Exhibition G/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C-HILLROG/P2340 [USACO03FALL] Cow Exhibition G/cmake-build-debug/CMakeFiles/rebuild_cache.dir

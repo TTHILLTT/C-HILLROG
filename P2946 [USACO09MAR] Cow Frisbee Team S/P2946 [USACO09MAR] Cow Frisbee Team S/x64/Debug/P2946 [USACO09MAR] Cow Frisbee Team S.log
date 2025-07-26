@@ -1,0 +1,3 @@
+﻿  CppM.cpp
+E:\C-HILLROG\P2946 [USACO09MAR] Cow Frisbee Team S\P2946 [USACO09MAR] Cow Frisbee Team S\CppM.cpp(5,16): warning C4244: “初始化”: 从“double”转换到“LL”，可能丢失数据
+  P2946 [USACO09MAR] Cow Frisbee Team S.vcxproj -> E:\C-HILLROG\P2946 [USACO09MAR] Cow Frisbee Team S\x64\Debug\P2946 [USACO09MAR] Cow Frisbee Team S.exe
